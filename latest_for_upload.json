@@ -321,20 +321,12 @@
       "seq": 40
     },
     {
-      "date": "11월 27일",
-      "day": "금",
-      "time": "11:00",
-      "bu": "OHC",
-      "code": "2110024",
-      "seq": 41
-    },
-    {
       "date": "11월 28일",
       "day": "토",
       "time": "22:00",
       "bu": "OHC",
       "code": "2110029",
-      "seq": 42
+      "seq": 41
     },
     {
       "date": "11월 29일",
@@ -342,7 +334,7 @@
       "time": "20:00",
       "bu": "MG",
       "code": "2112673",
-      "seq": 43
+      "seq": 42
     },
     {
       "date": "11월 29일",
@@ -350,7 +342,7 @@
       "time": "20:00",
       "bu": "OHC",
       "code": "2110031",
-      "seq": 44
+      "seq": 43
     },
     {
       "date": "12월 2일",
@@ -358,7 +350,7 @@
       "time": "20:00",
       "bu": "MG",
       "code": "2110368",
-      "seq": 45
+      "seq": 44
     },
     {
       "date": "12월 3일",
@@ -366,7 +358,7 @@
       "time": "19:00",
       "bu": "OHC",
       "code": "2110363",
-      "seq": 46
+      "seq": 45
     },
     {
       "date": "12월 6일",
@@ -374,7 +366,7 @@
       "time": "20:00",
       "bu": "MG",
       "code": "2110370",
-      "seq": 47
+      "seq": 46
     },
     {
       "date": "12월 30일",
@@ -382,10 +374,10 @@
       "time": "20:00",
       "bu": "MG",
       "code": "2111330",
-      "seq": 48
+      "seq": 47
     }
   ],
-  "checkedAt": "2026-11-27T10:00:28+09:00",
+  "checkedAt": "2026-11-27T13:00:39+09:00",
   "source": "brand.naver.com/{philips,sonicare,philipssleepcare}/lives (via r.jina.ai)",
-  "fingerprint": "a0ebff4f47b9c934"
+  "fingerprint": "f509c2447159f197"
 }
